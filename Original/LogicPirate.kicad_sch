@@ -2690,7 +2690,7 @@
     (property "Reference" "U?" (id 0) (at 191.77 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "74LS573" (id 1) (at 192.2906 91.5471 0)
+    (property "Value" "74LVC573" (id 1) (at 192.2906 91.5471 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 194.31 107.95 0)
@@ -3123,7 +3123,7 @@
       (reference "U?") (unit 1) (value "PIC32MX250F128B-I/SO") (footprint "SOIC28-W_MC_MCH")
     )
     (path "/b022c481-021a-4875-9105-57eb8351a9db"
-      (reference "U?") (unit 1) (value "74LS573") (footprint "")
+      (reference "U?") (unit 1) (value "74LVC573") (footprint "")
     )
     (path "/c0b00728-8da5-4fbb-bf91-d770374191e9"
       (reference "U?") (unit 1) (value "MCP1825S") (footprint "Package_TO_SOT_SMD_AKL:SOT-223-3_TabPin2")
